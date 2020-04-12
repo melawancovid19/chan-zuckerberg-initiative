@@ -1,3 +1,3 @@
-## Data about the Chan Zuckerberg Initiative
+## Data terkait situasi COVID-19 di Indonesia
 
-This is a Hack Education project, tracking the financial and social networks of CZI
+Merupakan projek dari Prep.Club
